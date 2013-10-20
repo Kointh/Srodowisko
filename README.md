@@ -1,4 +1,4 @@
-#rozwiazania
+#Rozwiazania
 
 Zadanie 1
 
