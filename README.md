@@ -14,3 +14,17 @@ return 0;
 ```
 
 
+zad2
+
+'''c
+#include <stdio.h>
+int main () {
+int i.n.suma;
+suma=0;
+printf("Podaj liczbę\n");
+scanf("%i",&n);
+for (i=1; i<=n; i=i+1)
+suma=suma+1*1;
+printf("Podana liczba to %i.\n",suma);
+}
+```
