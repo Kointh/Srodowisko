@@ -16,7 +16,7 @@ return 0;
 
 zad2
 
-'''c
+```c
 #include <stdio.h>
 int main () {
 int i.n.suma;
