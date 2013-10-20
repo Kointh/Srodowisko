@@ -1,6 +1,6 @@
 #rozwiazania
 
-zad1
+Zadanie 1
 
 ```c
 #include <stdio.h>
@@ -14,7 +14,7 @@ return 0;
 ```
 
 
-zad2
+Zadanie 2
 
 ```c
 #include <stdio.h>
@@ -30,7 +30,7 @@ printf("Podana liczba to %i.\n",suma);
 ```
 
 
-zad3
+Zadanie 3
 
 ```c
 #include <stdio.h>
@@ -47,7 +47,7 @@ n3=2*4*(5+9/2);
 }
 ```
 
-zad4
+Zadanie 4
 
 ```c
 #include <stdio.h>
@@ -63,7 +63,7 @@ return 0;
 }
 ```
 
-zad5
+Zadanie 5
 
 ```c
 #include <stdio.h>
@@ -78,7 +78,7 @@ printf("%i ",a)
 }
 ```
 
-zad6
+Zadania 6
 
 ```c
 #include <stdio.h>
@@ -89,7 +89,8 @@ int a,b;
 a=1;
 while (a<=2010){
 printf("%i ",a);
-a=a*2;}
+a=a*2;
+}
 
 }
 ```
