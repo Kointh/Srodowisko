@@ -28,3 +28,71 @@ suma=suma+1*1;
 printf("Podana liczba to %i.\n",suma);
 }
 ```
+
+
+zad3
+
+```c
+#include <stdio.h>
+
+main ()
+{
+  int n1,n2,n3,a,b;
+n1=5+3*8/2-3;
+n2=2%2+2*2-2/2;
+n3=2*4*(5+9/2);
+  printf("n1=%i.\n",n1);
+  printf("n2=%i.\n",n2);
+  printf("n3=%i.\n",n3);
+}
+```
+
+zad4
+
+```c
+#include <stdio.h>
+
+int main()
+{
+int a,tabela[]={1,2,4,6,12};
+for (a=4; a>=0; a--)
+printf("%i ",tabela[a]);
+printf("\n");
+
+return 0;
+}
+```
+
+zad5
+
+```c
+#include <stdio.h>
+
+main()
+{
+int a,b;
+b=2010;
+for (a=1; a<=2010; a=a*2)
+printf("%i ",a)
+
+}
+```
+
+zad6
+
+```c
+#include <stdio.h>
+
+main()
+{
+int a,b;
+a=1;
+while (a<=2010){
+printf("%i ",a);
+a=a*2;}
+
+}
+```
+
+
+
