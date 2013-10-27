@@ -1,0 +1,14 @@
+Zadanie 1
+```c
+#include <stdio.h>
+int main () {
+int n;
+printf("Podaj liczbe\n");
+scanf("%i",&n);
+if (n>5)
+printf("Wieksza od 5\n");
+else
+printf("Mniejsza od 5\n");
+return 0;
+}
+```
