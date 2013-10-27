@@ -24,7 +24,7 @@ suma=0;
 printf("Podaj liczbę\n");
 scanf("%i",&n);
 for (i=1; i<=n; i=i+1)
-suma=suma+1*1;
+suma=suma+i*i;
 printf("Podana liczba to %i.\n",suma);
 }
 ```
